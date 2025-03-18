@@ -35,7 +35,7 @@ export default function RecentPosts() {
   
     return (
       <section className="py-16 px-6">
-        {/* Section Header */}
+        {/* Section Header yes*/}
         <div className="flex items-center justify-between mb-8">
           <h2 className="text-3xl font-bold">Our Recent Posts</h2>
           <button className="bg-[#7C4EE4] text-white px-5 py-2 rounded-lg font-medium hover:bg-[#5a34b7] transition">
