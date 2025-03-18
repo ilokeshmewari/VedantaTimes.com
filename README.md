@@ -47,10 +47,10 @@ npm run lint
 
 ## Open Source Contributions Not Accepted  
 
-This repository is **strictly managed** by the Vedanta Times admin team. We do **not** accept open-source contributions.  
+This repository is **strictly managed** by the Vedanta Times admin team. We do **not** accept open-source contributions. However, for the **learning purpose of students**, we have made our code **public**. You are welcome to explore it for educational purposes.  
 
 For any **suggestions or recommendations**, please contact:  
-**feedbacks@vedantatimes.com**  
+**feedback@vedantatimes.com**  
 
 ---
 
