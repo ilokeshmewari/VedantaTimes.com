@@ -4,7 +4,7 @@ import Navbar from "@/components/Navbar";
 import Footer from "@/components/Footer";
 
 export const metadata: Metadata = {
-  title: "VedantaTimes.com",
+  title: "vedantatimes.com",
   description: "Official website of VedantaTimes.com",
 };
 
@@ -13,6 +13,8 @@ export default function RootLayout({
 }: Readonly<{ children: React.ReactNode }>) {
   return (
     <html lang="en">
+      <head>
+      </head>
       <body className="antialiased">
         <Navbar />
         <main className="min-h-screen">{children}</main>
