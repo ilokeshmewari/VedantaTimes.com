@@ -1,36 +1,57 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# VedantaTimes.com Official Repository
 
-## Getting Started
+Welcome to the official repository of **VedantaTimes.com**. This repository is strictly managed by the Vedanta Times team and is not open for public contributions.
 
-First, run the development server:
+---
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+## Installation Guide for Collaborators  
+
+To set up the project locally, follow these steps:
+
+### **1. Clone the Repository**  
+```sh
+git clone https://github.com/ilokeshmewari/VedantaTimes.com.git
+```
+```sh
+cd VedantaTimes.com
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+### **2. Install Dependencies**  
+```sh
+npm install
+```
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+### **3. Start the Development Server**  
+```sh
+npm run dev
+```
+This will start the project at **http://localhost:3000**.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+---
 
-## Learn More
+## Code Quality Matters!  
 
-To learn more about Next.js, take a look at the following resources:
+Before pushing any code, ensure:
+- Your code is **optimized** for performance and fast loading.  
+- The structure is **clean and maintainable**.  
+- No unnecessary console logs or unused imports.  
+- Proper formatting and linting are followed.  
+- Before pushing, write comments that are **clear and understandable**. Do **not** add unnecessary comments.  
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Run the following command to check for linting errors before pushing:  
+```sh
+npm run lint
+```
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+---
 
-## Deploy on Vercel
+## Open Source Contributions Not Accepted  
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+This repository is **strictly managed** by the Vedanta Times admin team. We do **not** accept open-source contributions.  
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+For any **suggestions or recommendations**, please contact:  
+**feedbacks@vedantatimes.com**  
+
+---
+
+Thank you for your cooperation!
